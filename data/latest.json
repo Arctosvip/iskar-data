@@ -1,10 +1,28 @@
 {
- "generated_at": "2026-11-09T13:49:11.760958+03:00",
+ "generated_at": "2026-11-09T15:44:33.075907+03:00",
  "window_days": 4,
  "date_from": "2026-11-05",
  "date_to": "2026-11-09",
- "count": 46,
+ "count": 52,
  "items": [
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-394-454",
+   "number": "394-454",
+   "title": "Тендер на выбор ивент-агентства (г.Санкт-Петербург)",
+   "customer": "ООО \"АВТОЗАВОД САНКТ-ПЕТЕРБУРГ\"",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-09",
+   "deadline": "2026-11-16",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1bfcc-010c-7d61-9060-cb7b4bce5528",
+   "matched": [
+    "\\bивент"
+   ]
+  },
   {
    "source": "Bidzaar",
    "id": "bdzr-394-373",
@@ -273,6 +291,97 @@
    "url": "https://etender.uzex.uz/lot/523936",
    "matched": [
     "tadbir"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-523842",
+   "number": "26110012523842",
+   "title": "Yer uchastalarini baholash xizmati (Urganch, Gurlan, Yangiariq, Tuproqqal'a hamda Qo'shko'pir tumanlari hududidan tadbirkolik uchun mo'ljallangan jami 6 ta yer uchastkasi)",
+   "customer": "Узбекистон Республикаси давлат активларини бошкариш агентлиги Хоразм вилояти худудий бошкармаси",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 1386000.0,
+   "currency": "UZS",
+   "published": "2026-11-09",
+   "deadline": "2026-11-16",
+   "region": "Хоразм вилояти, Урганч",
+   "url": "https://etender.uzex.uz/lot/523842",
+   "matched": [
+    "tadbir"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-523966",
+   "number": "26110012523966",
+   "title": "Тиббиёт ходимлари куни муносабати билан байрам тадбири",
+   "customer": "Бувайда туман Тиббиёт бирлашмаси",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 105000000.0,
+   "currency": "UZS",
+   "published": "2026-11-09",
+   "deadline": "2026-11-16",
+   "region": "Фарғона вилояти, Бувайда тумани",
+   "url": "https://etender.uzex.uz/lot/523966",
+   "matched": [
+    "тадбир",
+    "байрам"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-523529",
+   "number": "26120012523529",
+   "title": "Madaniy va maʼrifiy tadbirlarni tashkillashtirish xizmati Услуга по организации  мероприятийм",
+   "customer": "\"YAGONA INTEGRATOR-UZINFOCOM\" MCHJ",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 5100000000.0,
+   "currency": "UZS",
+   "published": "2026-11-09",
+   "deadline": "2026-11-16",
+   "region": "Шайхонтоҳур тумани",
+   "url": "https://etender.uzex.uz/lot/523529",
+   "matched": [
+    "(организац|проведени|подготовк|реализац|сопровождени|разработк)\\w*\\W+(\\w+\\W+){0,6}?мероприят"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-523957",
+   "number": "26110012523957",
+   "title": "Buxoro davlat pedagogika instituti 2026-yilning oktyabr noyabr dekabr oylari uchun ma’naviy ma’rifiy tadbirlar yuqori natijalarga erishgan professor o‘qituvchilar hamda  talabalarni taqdirlash maqsadi",
+   "customer": "Бухоро давлат Педагогика институти",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 18000000.0,
+   "currency": "UZS",
+   "published": "2026-11-09",
+   "deadline": "2026-11-16",
+   "region": "Бухоро вилояти",
+   "url": "https://etender.uzex.uz/lot/523957",
+   "matched": [
+    "tadbir"
+   ]
+  },
+  {
+   "source": "etenders.ge",
+   "id": "etge-69935",
+   "number": "69935",
+   "title": " არმორ გრუპ ტენდერი გაყიდვებისა და მარკეტინგის მომსახურების შესყიდვის თაობაზე",
+   "customer": null,
+   "procedure": "Тендер",
+   "status": null,
+   "price": null,
+   "currency": "GEL",
+   "published": "2026-11-09",
+   "deadline": "2026-11-20",
+   "region": "Грузия",
+   "url": "https://etenders.ge/view/69935/არმორ გრუპ-ტენდერი გაყიდვებისა და მარკეტინგის მომსახურების შესყიდვის თაობაზე",
+   "matched": [
+    "პრეზენტაცია"
    ]
   },
   {

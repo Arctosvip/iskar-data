@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T13:49:11.760958+03:00",
+ "generated_at": "2026-11-09T15:44:33.075907+03:00",
  "window_days": 4,
  "date_from": "2026-11-05",
  "date_to": "2026-11-09",
@@ -15,8 +15,8 @@
   {
    "name": "Bidzaar · публичный фид каталога",
    "status": "ok",
-   "seen": 1086,
-   "passed": 6,
+   "seen": 1193,
+   "passed": 7,
    "note": "",
    "oldest_seen": "2026-11-05"
   },
@@ -37,21 +37,21 @@
   {
    "name": "Узбекистан · etender.uzex.uz",
    "status": "ok",
-   "seen": 537,
-   "passed": 3,
-   "note": "Всего активных торгов на площадке: 537."
+   "seen": 561,
+   "passed": 7,
+   "note": "Всего активных торгов на площадке: 561."
   },
   {
    "name": "Грузия · etenders.ge",
    "status": "ok",
-   "seen": 156,
-   "passed": 0,
+   "seen": 157,
+   "passed": 1,
    "note": ""
   },
   {
    "name": "Грузия · tenders.ge (он же mytenders.ge, tenderi.ge)",
    "status": "ok",
-   "seen": 50,
+   "seen": 53,
    "passed": 1,
    "note": "Берётся главная страница — последние ~50 тендеров; для ежедневного запуска этого хватает, архив за 30 дней не собирается."
   },
