@@ -1,10 +1,172 @@
 {
- "generated_at": "2026-11-10T15:29:35.722050+03:00",
+ "generated_at": "2026-11-11T14:48:00.248898+03:00",
  "window_days": 4,
- "date_from": "2026-11-06",
- "date_to": "2026-11-10",
- "count": 61,
+ "date_from": "2026-11-07",
+ "date_to": "2026-11-11",
+ "count": 53,
  "items": [
+  {
+   "source": "TED",
+   "id": "ted-782918-2026",
+   "number": "782918-2026",
+   "title": "Appui à la communication",
+   "customer": "CAISSE GENERALE DE SECURITE SOCIALE DE LA MARTINIQUE",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 1650000.0,
+   "currency": "EUR",
+   "published": "2026-11-11",
+   "deadline": "2026-12-11",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/782918-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-783075-2026",
+   "number": "783075-2026",
+   "title": "Contract for disposal/salvage services, lost goods, auction of means of transport etc.",
+   "customer": "Politiets fellestjenester",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 250000000.0,
+   "currency": "NOK",
+   "published": "2026-11-11",
+   "deadline": "2026-12-16",
+   "region": "NOR",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/783075-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-784615-2026",
+   "number": "784615-2026",
+   "title": "Mötes- och konferensbokningstjänster",
+   "customer": "Chalmers Tekniska Högskola Aktiebolag",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 53000000.0,
+   "currency": "SEK",
+   "published": "2026-11-11",
+   "deadline": "2026-12-17",
+   "region": "SWE",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/784615-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-785462-2026",
+   "number": "785462-2026",
+   "title": "Wirtschafts- und Innovationsförderung Salzgitter GmbH - Beach-Event in der Innenstadt von Salzgitter-Bad 2027 und 2028",
+   "customer": "Wirtschafts- und Innovationsförderung Salzgitter GmbH",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 280000.0,
+   "currency": "EUR",
+   "published": "2026-11-11",
+   "deadline": "2026-12-10",
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/785462-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-785652-2026",
+   "number": "785652-2026",
+   "title": "Mise en place de tribunes dans le cadre des cérémonies de sorties des élèves officiers et commissaires",
+   "customer": "Ecole Nationale Superieure de la Police",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-11",
+   "deadline": "2026-12-10",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/785652-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-785753-2026",
+   "number": "785753-2026",
+   "title": "Gestión y dinamización turística del Castillo de Santa Bárbara de la ciudad de Alicante",
+   "customer": "Presidencia del Patronato Municipal de Turismo y Playas de Alicante",
+   "procedure": "cn-social",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-11",
+   "deadline": "2026-12-11",
+   "region": "ESP",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/785753-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-786090-2026",
+   "number": "786090-2026",
+   "title": "FOURNITURES ET PRESTATIONS DE SERVICES POUR L'ORGANISATION DE MIEL VERT 2027",
+   "customer": "COMMUNE DU TAMPON",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-11",
+   "deadline": "2026-11-25",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/786090-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-524238",
+   "number": "26110012524238",
+   "title": "Услуга по организации и проведению мероприятий",
+   "customer": "Яккасарой туман хокимияти",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 220320000.0,
+   "currency": "UZS",
+   "published": "2026-11-11",
+   "deadline": "2026-11-18",
+   "region": "Яккасарой тумани",
+   "url": "https://etender.uzex.uz/lot/524238",
+   "matched": [
+    "(организац|проведени|подготовк|реализац|сопровождени|разработк)\\w*\\W+(\\w+\\W+){0,6}?мероприят"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-524146",
+   "number": "26110012524146",
+   "title": "Umumiy ovqatlanish mahsulotlarini etkazib berish va tantanali tadbirlarni o‘tkazish xizmati",
+   "customer": "Zangiota tuman Tibbiyot birlashmasi",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 50625000.0,
+   "currency": "UZS",
+   "published": "2026-11-11",
+   "deadline": "2026-11-27",
+   "region": "Тошкент вилояти, Зангиота тумани",
+   "url": "https://etender.uzex.uz/lot/524146",
+   "matched": [
+    "tadbir"
+   ]
+  },
   {
    "source": "TED",
    "id": "ted-779443-2026",
@@ -381,6 +543,24 @@
    "url": "https://etender.uzex.uz/lot/523651",
    "matched": [
     "(?<![«\\\"])\\bфорум"
+   ]
+  },
+  {
+   "source": "DevelopmentAid",
+   "id": "dvaid-1744740",
+   "number": "1744740",
+   "title": "catering services for un women event 10 december 2026 astana aifc",
+   "customer": null,
+   "procedure": "Тендер донора",
+   "status": null,
+   "price": null,
+   "currency": null,
+   "published": "2026-11-10",
+   "deadline": null,
+   "region": "astana",
+   "url": "https://www.developmentaid.org/tenders/view/1744740/catering-services-for-un-women-event-10-december-2026-astana-aifc",
+   "matched": [
+    "\\bevent"
    ]
   },
   {
@@ -761,330 +941,6 @@
    "url": "https://etenders.ge/view/69935/არმორ გრუპ-ტენდერი გაყიდვებისა და მარკეტინგის მომსახურების შესყიდვის თაობაზე",
    "matched": [
     "პრეზენტაცია"
-   ]
-  },
-  {
-   "source": "Bidzaar",
-   "id": "bdzr-394-097",
-   "number": "394-097",
-   "title": "Статуэтка для награждения",
-   "customer": "BIDZAAR",
-   "procedure": "Приём предложений",
-   "status": "Приём предложений",
-   "price": null,
-   "currency": null,
-   "published": "2026-11-06",
-   "deadline": "2026-11-11",
-   "region": null,
-   "url": "https://bidzaar.com/app/process/light/01a1b12d-692b-7c70-9295-19123068baef",
-   "matched": [
-    "\\bнаграждени"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-771388-2026",
-   "number": "771388-2026",
-   "title": "SPD4/2026/044 - Tender for the Provision of Marketing and Artistic Design for the National Campaign for the Commission on Gender-Based Violence and Domestic Violence",
-   "customer": "Sectoral Procurement Directorate",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 275000.0,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2026-12-16",
-   "region": "MLT",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/771388-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-771488-2026",
-   "number": "771488-2026",
-   "title": "Deutsch-Chinesisches Agrarzentrum (DCZ), 4. Phase, Projektnummer CHN 27-01",
-   "customer": "Offizielle Bezeichnung: GFA Consulting Group GmbH (Generalbeauftragte für das BKP des BMLEH)",
-   "procedure": "cn-social",
-   "status": "Приём заявок",
-   "price": 4642857.14,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2026-12-07",
-   "region": "DEU",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/771488-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-772086-2026",
-   "number": "772086-2026",
-   "title": "European Capitals of Tourism",
-   "customer": "European Commission, DG MOVE - Mobility and Transport",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 3000000.0,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2027-01-04",
-   "region": "BEL",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/772086-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-772283-2026",
-   "number": "772283-2026",
-   "title": "Usluga informiranja, podizanja svijesti, promidžbe i provedbe komunikacijskih aktivnosti",
-   "customer": "MINISTARSTVO RADA, MIROVINSKOGA SUSTAVA, OBITELJI I SOCIJALNE POLITIKE",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 379200.0,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2026-11-25",
-   "region": "HRV",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/772283-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-773006-2026",
-   "number": "773006-2026",
-   "title": "ORGANISATION D’UN COLLOQUE SCIENTIFIQUE INTERNATIONAL (HEBERGEMENT, SALLE, RESTAURATION)",
-   "customer": "CNRS Délégation Aquitaine",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": null,
-   "currency": null,
-   "published": "2026-11-06",
-   "deadline": "2026-12-02",
-   "region": "FRA",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/773006-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-773377-2026",
-   "number": "773377-2026",
-   "title": "„Организация и провеждане на Национално концертно турне на Държавен фолклорен ансамбъл „Филип Кутев“",
-   "customer": "ДЪРЖАВЕН ФОЛКЛОРЕН АНСАМБЪЛ \"ФИЛИП КУТЕВ\"",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 590000.0,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2027-01-07",
-   "region": "BGR",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/773377-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-773541-2026",
-   "number": "773541-2026",
-   "title": "Aquisição de serviços para a conceção, locação, produção, montagem, desmontagem e logística dos stands do Instituto dos Vinhos do Douro e do Porto, I.P. nas feiras Wine Paris e ProWein 2027",
-   "customer": "Instituto dos Vinhos do Douro e do Porto, IP",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": null,
-   "currency": null,
-   "published": "2026-11-06",
-   "deadline": "2026-12-03",
-   "region": "PRT",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/773541-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-773583-2026",
-   "number": "773583-2026",
-   "title": "Organizacja Jarmarku Bożonarodzeniowego na Krakowskim Przedmieściu w Lublinie w terminie 19-20 grudnia 2026 r.",
-   "customer": "Województwo Lubelskie z siedzibą w Lublinie",
-   "procedure": "cn-social",
-   "status": "Приём заявок",
-   "price": null,
-   "currency": null,
-   "published": "2026-11-06",
-   "deadline": "2026-11-20",
-   "region": "POL",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/773583-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-773709-2026",
-   "number": "773709-2026",
-   "title": "Prestations de régie générale, technique et logistique pour l'organisation des manifestations contribuant à l'animation économique, culturelle et à l'attractivité territoriale de la CARL",
-   "customer": "Communauté d'agglomération Riviera du Levant",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 300000.0,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2026-12-01",
-   "region": "FRA",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/773709-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-774183-2026",
-   "number": "774183-2026",
-   "title": "Establecimiento de un Sistema Dinámico de Adquisición del Ayuntamiento de Meliana para la contratación de diversos servicios y suministros",
-   "customer": "Pleno del Ayuntamiento de Meliana",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": null,
-   "currency": null,
-   "published": "2026-11-06",
-   "deadline": null,
-   "region": "ESP",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/774183-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-774443-2026",
-   "number": "774443-2026",
-   "title": "Het (meermaals) organiseren van het evenement StuDay",
-   "customer": "Antwerpen",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": null,
-   "currency": null,
-   "published": "2026-11-06",
-   "deadline": "2026-11-23",
-   "region": "BEL",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/774443-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-774626-2026",
-   "number": "774626-2026",
-   "title": "Prestations d’équipements audiovisuels, sonorisations, pupitres de conférence, vidéo-éclairage au profit du Ministère des Armées lors d’actions évènementielles et commémoratives",
-   "customer": "Sous-direction de la préfiguration de l'agence ministérielle de gestion",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 1000000.0,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2026-12-08",
-   "region": "FRA",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/774626-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-774692-2026",
-   "number": "774692-2026",
-   "title": "Support for the organisation of events and other communication and information activities of the European Parliament Liaison Office in Greece",
-   "customer": "European Parliament, SG - Directorate-General for Communication",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 600000.0,
-   "currency": "EUR",
-   "published": "2026-11-06",
-   "deadline": "2026-12-16",
-   "region": "BEL",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/774692-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-774897-2026",
-   "number": "774897-2026",
-   "title": "Organizacja oraz obsługa logistyczna targów edukacyjnych pn. „Festiwal Zawodów w Małopolsce w 2027 roku”",
-   "customer": "Województwo Małopolskie",
-   "procedure": "cn-social",
-   "status": "Приём заявок",
-   "price": 1426533.34,
-   "currency": "PLN",
-   "published": "2026-11-06",
-   "deadline": "2026-11-16",
-   "region": "POL",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/774897-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-774958-2026",
-   "number": "774958-2026",
-   "title": "DNS – Komunikační a marketingové aktivity",
-   "customer": "Ministerstvo zdravotnictví",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": null,
-   "currency": null,
-   "published": "2026-11-06",
-   "deadline": null,
-   "region": "CZE",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/774958-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "etender.uzex.uz",
-   "id": "uz-523516",
-   "number": "26120012523516",
-   "title": "“Hisorak GES” filialida yong‘in xavfsizligini ta’minlash chora tadbiri (Accord-512 avtomatik xabar berish tizimi va ИП 212-58М datchiklarini zamonaviysiga almashtirish)  ",
-   "customer": "\"O`ZBEKGIDROENERGO\" AJ",
-   "procedure": "Тендер",
-   "status": "Приём заявок",
-   "price": 150000000.0,
-   "currency": "UZS",
-   "published": "2026-11-06",
-   "deadline": "2026-11-13",
-   "region": "Қашқадарё вилояти, Шахрисабз тумани",
-   "url": "https://etender.uzex.uz/lot/523516",
-   "matched": [
-    "tadbir"
-   ]
-  },
-  {
-   "source": "etender.uzex.uz",
-   "id": "uz-523729",
-   "number": "26110012523729",
-   "title": "Badiiy ko'rgazmalarni tashkil etish xizmati",
-   "customer": "Дирекция Художественных Выставок",
-   "procedure": "Тендер",
-   "status": "Приём заявок",
-   "price": 77900000.0,
-   "currency": "UZS",
-   "published": "2026-11-06",
-   "deadline": "2026-11-13",
-   "region": "Яккасарой тумани",
-   "url": "https://etender.uzex.uz/lot/523729",
-   "matched": [
-    "ko.rgazma"
    ]
   },
   {
