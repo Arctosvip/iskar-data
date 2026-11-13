@@ -1,10 +1,280 @@
 {
- "generated_at": "2026-11-12T15:32:55.590661+03:00",
+ "generated_at": "2026-11-13T15:04:27.865661+03:00",
  "window_days": 4,
- "date_from": "2026-11-08",
- "date_to": "2026-11-12",
- "count": 70,
+ "date_from": "2026-11-09",
+ "date_to": "2026-11-13",
+ "count": 87,
  "items": [
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-396-862",
+   "number": "396-862",
+   "title": "OZON: BUY-94231 Пул BTL-агентств в РФ на 2027 год",
+   "customer": "OZON",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-11-18",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1d4a8-3010-7e24-8d5a-7a54801b5d66",
+   "matched": [
+    "\\bbtl"
+   ]
+  },
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-396-856",
+   "number": "396-856",
+   "title": "Оказание услуг по подготовке, координации и сопровождению массовых мероприятий в период с 01.02.2027 по 31.10.2027 на территории AZIMUT Парк Отель Переславль",
+   "customer": "AZIMUT Парк Отель Переславль",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-11-20",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1d4a3-9ec5-7174-a7b4-e93662a863f5",
+   "matched": [
+    "(организац|проведени|подготовк|реализац|сопровождени|разработк)\\w*\\W+(\\w+\\W+){0,6}?мероприят"
+   ]
+  },
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-396-398",
+   "number": "396-398",
+   "title": "Тендер Event-мероприятия для ЛентаПРО",
+   "customer": "ЛЕНТА",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-12-07",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1cfdc-a8b8-7054-8290-39c9a17ed90f",
+   "matched": [
+    "\\bevent"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-789824-2026",
+   "number": "789824-2026",
+   "title": "Procedura aperta per l'appalto dei servizi di gestione Hospitality e servizi di catering per le gare della Formula Regional European Championship 2027",
+   "customer": "ACI Sport S.p.a.",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 666000.0,
+   "currency": "EUR",
+   "published": "2026-11-13",
+   "deadline": "2027-01-13",
+   "region": "ITA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/789824-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-789927-2026",
+   "number": "789927-2026",
+   "title": "Wykonanie, zainstalowanie i uruchomienie „wystawy otwarcia” na parterze nowej siedziby Muzeum Wojska w Białymstoku oraz przestrzeni obsługi zwiedzających na parterze tego budynku wraz z dostawą i montażem wyposażenia",
+   "customer": "MUZEUM WOJSKA W BIAŁYMSTOKU",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-11-24",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/789927-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-790025-2026",
+   "number": "790025-2026",
+   "title": "Acuerdo marco para los servicios de organización y ejecución de eventos del Patronato provincial de Turismo de Granada 2026-2030",
+   "customer": "Consejo Rector del Patronato Provincial de Turismo de Granada",
+   "procedure": "cn-social",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-12-14",
+   "region": "ESP",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/790025-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-791022-2026",
+   "number": "791022-2026",
+   "title": "Usługi przygotowania i realizacji wydarzeń stacjonarnych (w szczególności: spotkań, szkoleń, wizyt studyjnych) związanych z procesem wsparcia wdrażania Programu Fundusze Europejskie dla Nowoczesnej Gospodarki (FENG), które mogą być organizowane na terenie całej Polski oraz wydarzeń w formie hybrydowej (stacjonarnie i za pośrednictwem platformy Zoom, Microsoft Teams lub podobnej).",
+   "customer": "Ministerstwo Funduszy i Polityki Regionalnej",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 500000.0,
+   "currency": "PLN",
+   "published": "2026-11-13",
+   "deadline": "2026-12-15",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/791022-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-791222-2026",
+   "number": "791222-2026",
+   "title": "FOURNITURES ET PRESTATIONS DE SERVICES POUR L'ORGANISATION DE MIEL VERT 2027",
+   "customer": "COMMUNE DU TAMPON",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-11-25",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/791222-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-791330-2026",
+   "number": "791330-2026",
+   "title": "Location inklusive aller weiteren Dienstleistungen für die Veranstaltung »FIRST by FMD 2027« Berlin",
+   "customer": "Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V.",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": null,
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/791330-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-792299-2026",
+   "number": "792299-2026",
+   "title": "Usługi informacyjno-promocyjne projektu pn. Rozbudowa Filharmonii Pomorskiej w Bydgoszczy - etap I. Projekt współfinansowany w ramach Programu Fundusze Europejskie na Infrastrukturę, Klimat, Środowisko 2021-2027 w ramach działania FENX. 07.01 Infrastruktura kultury i turystyki kulturowej priorytet FENX. 07 Kultura",
+   "customer": "Filharmonia Pomorska im. Ignacego Jana Paderewskiego",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-12-14",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/792299-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-792480-2026",
+   "number": "792480-2026",
+   "title": "ICFO-2026-057 Acord marc per a la prestació del servei d'organització, gestió i execució dels esdeveniments de l'ICFO",
+   "customer": "ICFO - Institut de Ciències Fotòniques",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-13",
+   "deadline": "2026-12-14",
+   "region": "ESP",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/792480-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-792524-2026",
+   "number": "792524-2026",
+   "title": "Concession de service sous forme de délégation de service public relative à la gestion du théâtre municipal de Coutances, d'un festival de jazz et d'un pôle de jazz",
+   "customer": "Commune de Coutances",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 24000000.0,
+   "currency": "EUR",
+   "published": "2026-11-13",
+   "deadline": null,
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/792524-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-524592",
+   "number": "26110012524592",
+   "title": "укитувчи мураббийлар куни муносабати билан комплек тадбир 600 кишига ички кисми",
+   "customer": "Вилоят касб-хунар таълими бошкармаси",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 500480000.0,
+   "currency": "UZS",
+   "published": "2026-11-13",
+   "deadline": "2026-11-20",
+   "region": "Андижон вилояти, Aндижон шаҳри",
+   "url": "https://etender.uzex.uz/lot/524592",
+   "matched": [
+    "тадбир"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-524588",
+   "number": "26110012524588",
+   "title": "укутувчи мураббийлар тадбирини утказиш учун ташки кисмда комплекс тадбир 600 кишилик",
+   "customer": "Вилоят касб-хунар таълими бошкармаси",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 547520000.0,
+   "currency": "UZS",
+   "published": "2026-11-13",
+   "deadline": "2026-11-20",
+   "region": "Андижон вилояти, Aндижон шаҳри",
+   "url": "https://etender.uzex.uz/lot/524588",
+   "matched": [
+    "тадбир"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-523963",
+   "number": "26110012523963",
+   "title": "Samarqand viloyat Madaniyat boshqarmasi Samarqand viloyatida o‘tkaziladigan O‘zbekiston Respublikasi 2026-yil davlat mustaqilligining o‘ttiz besh yillik bayramiga tayyorgarlik ko‘rish va uni",
+   "customer": "Самарканд вилоят Маданият бошкармаси",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 100000000.0,
+   "currency": "UZS",
+   "published": "2026-11-13",
+   "deadline": "2026-11-20",
+   "region": "Самарқанд вилояти , Самарқанд шаҳри",
+   "url": "https://etender.uzex.uz/lot/523963",
+   "matched": [
+    "bayram"
+   ]
+  },
   {
    "source": "TED",
    "id": "ted-786423-2026",
@@ -327,6 +597,42 @@
    "url": "https://etender.uzex.uz/lot/524534",
    "matched": [
     "tadbir"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-524539",
+   "number": "26110012524539",
+   "title": "Tadbir ishtirokchilarini ovkatlantirish xizmati uchun",
+   "customer": "Вилоят Хокимлиги",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 159000000.0,
+   "currency": "UZS",
+   "published": "2026-11-12",
+   "deadline": "2026-11-19",
+   "region": "Сурхандарё вилояти, Термез",
+   "url": "https://etender.uzex.uz/lot/524539",
+   "matched": [
+    "tadbir"
+   ]
+  },
+  {
+   "source": "DevelopmentAid",
+   "id": "dvaid-1746011",
+   "number": "1746011",
+   "title": "event management logistical and administrative services for the better work uzbekistan events in nov",
+   "customer": null,
+   "procedure": "Тендер донора",
+   "status": null,
+   "price": null,
+   "currency": null,
+   "published": "2026-11-12",
+   "deadline": null,
+   "region": "uzbek",
+   "url": "https://www.developmentaid.org/tenders/view/1746011/event-management-logistical-and-administrative-services-for-the-better-work-uzbekistan-events-in-nov",
+   "matched": [
+    "\\bevent"
    ]
   },
   {
@@ -917,7 +1223,7 @@
    "price": null,
    "currency": null,
    "published": "2026-11-09",
-   "deadline": "2026-11-16",
+   "deadline": "2026-11-18",
    "region": null,
    "url": "https://bidzaar.com/app/process/light/01a1bfcc-010c-7d61-9060-cb7b4bce5528",
    "matched": [
