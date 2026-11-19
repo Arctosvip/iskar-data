@@ -1,10 +1,299 @@
 {
- "generated_at": "2026-11-18T15:56:41.536617+03:00",
+ "generated_at": "2026-11-19T15:51:02.071126+03:00",
  "window_days": 4,
- "date_from": "2026-11-14",
- "date_to": "2026-11-18",
- "count": 49,
+ "date_from": "2026-11-15",
+ "date_to": "2026-11-19",
+ "count": 66,
  "items": [
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-399-354",
+   "number": "399-354",
+   "title": "Запрос цен на спецпроекты по SMM для Фрутоняни",
+   "customer": "АО «ПРОГРЕСС»",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-19",
+   "deadline": "2026-11-24",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1f3d1-a16c-748f-ad96-35a98195da54",
+   "matched": [
+    "спецпроект"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-803870-2026",
+   "number": "803870-2026",
+   "title": "Kompleksowa organizacja konferencji 9. Ogólnopolskie Sympozjum WSPÓŁCZESNE PROBLEMY GEOLOGII INŻYNIERSKIEJ W POLSCE (9. WPGI 2027)",
+   "customer": "Państwowy Instytut Geologiczny",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-19",
+   "deadline": "2026-12-03",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/803870-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-803913-2026",
+   "number": "803913-2026",
+   "title": "ΔΡΑΣΕΙΣ ΤΟΥΡΙΣΤΙΚΗΣ ΠΡΟΒΟΛΗΣ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ»",
+   "customer": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 1570161.29,
+   "currency": "EUR",
+   "published": "2026-11-19",
+   "deadline": "2026-12-30",
+   "region": "GRC",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/803913-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-804198-2026",
+   "number": "804198-2026",
+   "title": "Προκηρύσσουμε ηλεκτρονικό διεθνή διαγωνισμό ανοικτής διαδικασίας για κάλυψη αναγκών ενόψει της Ελληνικής Προεδρίας του Συμβουλίου της Ε.Ε κατά το Β’ εξάμηνο του 2027.",
+   "customer": "ΥΠΟΥΡΓΕΙΟ ΚΛΙΜΑΤΙΚΗΣ ΚΡΙΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ, ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ, ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ /ΔΙΕΥΘΥΝΣΗ ΠΡΟΜΗΘΕΙΩΝ/ Α΄ ΤΜΗΜΑ ΔΙΕΝΕΡΓΕΙΑΣ ΔΙΑΔΙΚΑΣΙΩΝ ΔΗΜΟΣΙΩΝ ΣΥΜΒΑΣΕΩΝ",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 253702.4,
+   "currency": "EUR",
+   "published": "2026-11-19",
+   "deadline": "2026-12-18",
+   "region": "GRC",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/804198-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-804742-2026",
+   "number": "804742-2026",
+   "title": "Ενιαία ψηφιακή πύλη Ενεργών Πολιτικών Απασχόλησης (ΕΠΑ)",
+   "customer": "ΕΙΔΙΚΗ ΥΠΗΡΕΣΙΑ ΕΠΙΤΕΛΙΚΗ ΔΟΜΗ ΕΣΠΑ ΥΠΟΥΡΓΕΙΟΥ ΕΡΓΑΣΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΑΣΦΑΛΙΣΗΣ",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 10588350.0,
+   "currency": "EUR",
+   "published": "2026-11-19",
+   "deadline": "2026-12-21",
+   "region": "GRC",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/804742-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-804807-2026",
+   "number": "804807-2026",
+   "title": "Het (meermaals) organiseren van het evenement StuDay",
+   "customer": "Antwerpen",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-19",
+   "deadline": "2026-11-30",
+   "region": "BEL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/804807-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-805018-2026",
+   "number": "805018-2026",
+   "title": "„Zakup pakietów uczestnictwa lub partnerstwa PARP w wydarzeniach zewnętrznych oraz usług wsparcia promocyjnego”",
+   "customer": "Polska Agencja Rozwoju Przedsiębiorczości",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 2032520.33,
+   "currency": "PLN",
+   "published": "2026-11-19",
+   "deadline": "2026-12-21",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/805018-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-805530-2026",
+   "number": "805530-2026",
+   "title": "Aufstellen, Vorhalten, Reinigen und Abbau von Chemietoiletten zum Rudolstadt-Festival 2027 und 2028",
+   "customer": "Stadtverwaltung Rudolstadt",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-19",
+   "deadline": "2026-12-18",
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/805530-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-805925-2026",
+   "number": "805925-2026",
+   "title": "«Ανάπτυξη και Εγκατάσταση Ψηφιακών Υποδομών για τη Λειτουργία του Συστήματος της Κάρτας Εργασίας στον Δημόσιο Τομέα»",
+   "customer": "ΚΟΙΝΩΝΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ Μ.Α.Ε. (ΚτΠ ΜΑΕ)",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 28221000.0,
+   "currency": "EUR",
+   "published": "2026-11-19",
+   "deadline": "2026-12-09",
+   "region": "GRC",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/805925-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-805980-2026",
+   "number": "805980-2026",
+   "title": "Prestations de gestion et d'exploitation des stands modulaires d'OPCO Mobilités",
+   "customer": "OPCO MOBILITES",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 2000000.0,
+   "currency": "EUR",
+   "published": "2026-11-19",
+   "deadline": "2026-12-17",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/805980-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-806238-2026",
+   "number": "806238-2026",
+   "title": "ACCORDO QUADRO PER SERVIZIO DI ORGANIZZAZIONE EVENTI DI ORIENTAMENTO SCOLASTICO E PROFESSIONALE PER GLI ANNI 2027-2030.",
+   "customer": "STAZIONE UNICA APPALTANTE DELLA PROVINCIA DI LECCO",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 450000.0,
+   "currency": "EUR",
+   "published": "2026-11-19",
+   "deadline": "2026-12-18",
+   "region": "ITA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/806238-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-806445-2026",
+   "number": "806445-2026",
+   "title": "Tapahtumajärjestäjäpalvelut",
+   "customer": "Liikenne- ja viestintävirasto",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 360000.0,
+   "currency": "EUR",
+   "published": "2026-11-19",
+   "deadline": "2026-12-23",
+   "region": "FIN",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/806445-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-526239",
+   "number": "26120012526239",
+   "title": "«Ўзбекинвест» АЖ, Болалар иштирокида ижодий-ижтимоий тадбир ҳамда 10 та мактабда экологик-маърифий дастурни ташкил этиш ва ўтказиш бўйича комплекс хизматлар кўрсатиш юзасидан танлов эълон қилади.",
+   "customer": "\"O`ZBEKINVEST EKSPORT-IMPORT SUG`URTA KOMPANIYASI\" AJ ST",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 200000000.0,
+   "currency": "UZS",
+   "published": "2026-11-19",
+   "deadline": "2026-11-26",
+   "region": "Чилонзор тумани",
+   "url": "https://etender.uzex.uz/lot/526239",
+   "matched": [
+    "тадбир"
+   ]
+  },
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-398-830",
+   "number": "398-830",
+   "title": "Организация и проведение корпоративной новогодней трансляции для Аптечной сети 36,6",
+   "customer": "ГК \"Аптечная сеть 36,6\"",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-18",
+   "deadline": "2026-11-26",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1eee6-6f44-7c27-a163-edbc23428221",
+   "matched": [
+    "корпоративн\\w* (мероприят|праздн|вечер|выезд|событи|программ|новогодн|бал|фестивал|турнир|спартакиад)"
+   ]
+  },
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-398-675",
+   "number": "398-675",
+   "title": "Услуги по организации ежегодной пресс-конференции Tenet для СМИ и блогеров",
+   "customer": "ТЕНЕТ РУС",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-18",
+   "deadline": "2026-11-23",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1ee5f-6bd7-742e-9f53-56c09cb08dc6",
+   "matched": [
+    "конференци(?!-?зал)",
+    "пресс-?конференц"
+   ]
+  },
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-398-789",
+   "number": "398-789",
+   "title": "Разработка мероприятий по обеспечению пожарной безопасности (МОПБ)",
+   "customer": "ОАО \"Авексима\"",
+   "procedure": "Приём предложений",
+   "status": "Приём предложений",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-18",
+   "deadline": "2026-11-25",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1eebb-a7c3-7776-8427-de127b5e917e",
+   "matched": [
+    "(организац|проведени|подготовк|реализац|сопровождени|разработк)\\w*\\W+(\\w+\\W+){0,6}?мероприят"
+   ]
+  },
   {
    "source": "Bidzaar",
    "id": "bdzr-398-534",
@@ -292,6 +581,24 @@
    "url": "https://etender.uzex.uz/lot/525264",
    "matched": [
     "taqdimot"
+   ]
+  },
+  {
+   "source": "etenders.ge",
+   "id": "etge-70006",
+   "number": "70006",
+   "title": " შპს თელმიკო კომპანიის თანამშრომლებისათვის საახალწლო კორპორატიული წვეულების ორგანიზებისა და ჩატარების კომპლექსური მომსახურების გაწევა (683.26.00121)",
+   "customer": null,
+   "procedure": "Тендер",
+   "status": null,
+   "price": null,
+   "currency": "GEL",
+   "published": "2026-11-18",
+   "deadline": "2026-11-24",
+   "region": "Грузия",
+   "url": "https://etenders.ge/view/70006/შპს თელმიკო-კომპანიის თანამშრომლებისათვის საახალწლო კორპორატიული წვეულების ორგანიზებისა და ჩატარების კომპლექსურ",
+   "matched": [
+    "საახალწლო"
    ]
   },
   {
