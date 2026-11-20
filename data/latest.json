@@ -1,14 +1,212 @@
 {
- "generated_at": "2026-11-19T15:51:02.071126+03:00",
+ "generated_at": "2026-11-20T15:44:34.271065+03:00",
  "window_days": 4,
- "date_from": "2026-11-15",
- "date_to": "2026-11-19",
- "count": 66,
+ "date_from": "2026-11-16",
+ "date_to": "2026-11-20",
+ "count": 77,
  "items": [
   {
+   "source": "TED",
+   "id": "ted-807341-2026",
+   "number": "807341-2026",
+   "title": "Prestations de location de sonorisation, de scénographie, d’éclairage, d’audiovisuel, de mobilier et d’équipements événementiels",
+   "customer": "Etablissement Public Territorial Plaine Commune",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-20",
+   "deadline": "2026-12-03",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/807341-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-807793-2026",
+   "number": "807793-2026",
+   "title": "Concession de service pour la conception, l'exploitation et l'animation des festivités de fin d'année de la Ville de Toulouse (Marché de Noël)",
+   "customer": "Ville de Toulouse",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 9600000.0,
+   "currency": "EUR",
+   "published": "2026-11-20",
+   "deadline": null,
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/807793-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-808165-2026",
+   "number": "808165-2026",
+   "title": "Betrieb und Weiterentwicklung des nordrhein-westfälischen Kompetenzzentrums für Cybersicherheit in der Wirtschaft \"DIGITAL.SICHER.NRW\"",
+   "customer": "Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes Nordrhein-Westfalen",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-20",
+   "deadline": "2026-12-22",
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/808165-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-808996-2026",
+   "number": "808996-2026",
+   "title": "ΥΠΗΡΕΣΙΕΣ ΣΧΕΔΙΑΣΜΟΥ ΚΑΙ ΥΛΟΠΟΙΗΣΗΣ ΠΙΛΟΤΙΚΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ ΠΛΗΡΩΝΩ ΟΣΟ ΠΕΤΑΩ ΜΕ ΕΠΙΒΡΑΒΕΥΣΗ ΤΗΣ ΑΝΑΚΥΚΛΩΣΗΣ ΣΤΟ ΔΗΜΟ ΑΘΗΝΑΙΩΝ",
+   "customer": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ - ΔΙΕΥΘΥΝΣΗ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΑΠΟΘΗΚΩΝ",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 300000.0,
+   "currency": "EUR",
+   "published": "2026-11-20",
+   "deadline": "2026-11-21",
+   "region": "GRC",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/808996-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-809159-2026",
+   "number": "809159-2026",
+   "title": "Zapewnienie wraz z obsługą infrastruktury technicznej na potrzeby organizowanego wydarzenia: 30. Pikniku Naukowego Polskiego Radia i Centrum Nauki Kopernik im. Profesora Łukasza Turskiego",
+   "customer": "Centrum Nauki Kopernik",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 1264085.0,
+   "currency": "PLN",
+   "published": "2026-11-20",
+   "deadline": "2026-12-22",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/809159-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-809598-2026",
+   "number": "809598-2026",
+   "title": "Zawarcie umowy ramowej na kompleksową obsługę kreatywną oraz organizacyjną wydarzeń skierowanych do klientów Banku Gospodarstwa Krajowego",
+   "customer": "Bank Gospodarstwa Krajowego",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-20",
+   "deadline": "2026-12-07",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/809598-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-810539-2026",
+   "number": "810539-2026",
+   "title": "Wykonanie wystawy stałej w Muzeum Nowej Huty w dawnym kinie Światowid w ramach pr. „Modernizacja i rozbudowa dawnego kina Światowid na potrzeby Muzeum Nowej Huty\" Projekt współfinan. przez UE w ramach działania VII Priorytetu Kultura Działania 7.1. Infrastruktura kultury i turystyki kulturowej Programu Fundusze Europejskie na Infrastrukturę, Klimat, Środowisko 2021-2027 oraz Gminę Miejską Kraków",
+   "customer": "Muzeum Historyczne Miasta Krakowa",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-20",
+   "deadline": "2026-12-15",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/810539-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-810880-2026",
+   "number": "810880-2026",
+   "title": "Servicios de logística operativa en eventos",
+   "customer": "Grupo Euskal Irrati Telebista - Departamento de Promoción e Imagen de EITB",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-20",
+   "deadline": "2026-12-23",
+   "region": "ESP",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/810880-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-526579",
+   "number": "26120012526579",
+   "title": "Изготовление выставочного стенда (согласно ТЗ) / Кўргазма стендини тайёрлаш (Техник топшириққа мувофиқ)",
+   "customer": "\"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 127005000.0,
+   "currency": "UZS",
+   "published": "2026-11-20",
+   "deadline": "2026-11-27",
+   "region": "Тошкент вилояти, Бекобод",
+   "url": "https://etender.uzex.uz/lot/526579",
+   "matched": [
+    "выставочн\\w* (стенд|экспозиц)"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-525563",
+   "number": "26110012525563",
+   "title": "Тадбирлар учун аутсорсинг",
+   "customer": "Андижон вилояти хокимлиги",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 65000000.0,
+   "currency": "UZS",
+   "published": "2026-11-20",
+   "deadline": "2026-11-27",
+   "region": "Андижон вилояти, Aндижон шаҳри",
+   "url": "https://etender.uzex.uz/lot/525563",
+   "matched": [
+    "тадбир"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-525436",
+   "number": "26110012525436",
+   "title": "фестивал байрам тадбирини утказиш ва ташкиллаштириш",
+   "customer": "Янгиарик тумани Хокимлиги хузуридаги Ободонлаштириш бошкармаси",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 220000000.0,
+   "currency": "UZS",
+   "published": "2026-11-20",
+   "deadline": "2026-11-27",
+   "region": "Хоразм вилояти, Yangiariq tumani",
+   "url": "https://etender.uzex.uz/lot/525436",
+   "matched": [
+    "фестивал"
+   ]
+  },
+  {
    "source": "Bidzaar",
-   "id": "bdzr-399-354",
-   "number": "399-354",
+   "id": "bdzr-399-473",
+   "number": "399-473",
    "title": "Запрос цен на спецпроекты по SMM для Фрутоняни",
    "customer": "АО «ПРОГРЕСС»",
    "procedure": "Приём предложений",
@@ -17,6 +215,24 @@
    "currency": null,
    "published": "2026-11-19",
    "deadline": "2026-11-24",
+   "region": null,
+   "url": "https://bidzaar.com/app/process/light/01a1f452-1426-7b67-8333-6faa2ce030ae",
+   "matched": [
+    "спецпроект"
+   ]
+  },
+  {
+   "source": "Bidzaar",
+   "id": "bdzr-399-354",
+   "number": "399-354",
+   "title": "Запрос цен на спецпроекты по SMM для Фрутоняни",
+   "customer": "АО «ПРОГРЕСС»",
+   "procedure": "Завершён",
+   "status": "Завершён",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-19",
+   "deadline": "2026-11-19",
    "region": null,
    "url": "https://bidzaar.com/app/process/light/01a1f3d1-a16c-748f-ad96-35a98195da54",
    "matched": [
@@ -1178,24 +1394,6 @@
    "url": "https://ted.europa.eu/ru/notice/-/detail/796540-2026",
    "matched": [
     "CPV событий"
-   ]
-  },
-  {
-   "source": "etender.uzex.uz",
-   "id": "uz-524798",
-   "number": "26110012524798",
-   "title": "Сух туман хокимлиги тадбир утказиш",
-   "customer": "Cух туман Хокимлиги",
-   "procedure": "Тендер",
-   "status": "Приём заявок",
-   "price": 240000000.0,
-   "currency": "UZS",
-   "published": "2026-11-15",
-   "deadline": "2026-11-20",
-   "region": "Фарғона вилояти, Сох тумани",
-   "url": "https://etender.uzex.uz/lot/524798",
-   "matched": [
-    "тадбир"
    ]
   }
  ]
