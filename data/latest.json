@@ -1,10 +1,334 @@
 {
- "generated_at": "2026-11-25T17:10:11.707244+03:00",
+ "generated_at": "2026-11-26T16:46:34.998278+03:00",
  "window_days": 4,
- "date_from": "2026-11-21",
- "date_to": "2026-11-25",
- "count": 53,
+ "date_from": "2026-11-22",
+ "date_to": "2026-11-26",
+ "count": 71,
  "items": [
+  {
+   "source": "TED",
+   "id": "ted-820803-2026",
+   "number": "820803-2026",
+   "title": "REALISATION, MONTAGE ET DEMONTAGE DU PAVILLON COLLECTIF DE LA REGION DES PAYS DE LA LOIRE AU SALON INTERNATIONAL DE L’AERONAUTIQUE ET DE L’ESPACE EN 2027",
+   "customer": "Région des Pays de la Loire",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2026-12-28",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/820803-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-820839-2026",
+   "number": "820839-2026",
+   "title": "Ehemaliges Marineuntersuchungsgefängnis Kiel - Leistungsbaustein 3 „Community- und Veranstaltungsmanagement“",
+   "customer": "Landeshauptstadt Kiel",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": null,
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/820839-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-820898-2026",
+   "number": "820898-2026",
+   "title": "Usługa kompleksowej organizacji Gali Sportu WL w dniach 16-17 stycznia 2027 r.",
+   "customer": "Województwo Lubelskie z siedzibą w Lublinie",
+   "procedure": "cn-social",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2026-12-11",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/820898-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-820997-2026",
+   "number": "820997-2026",
+   "title": "Izvedba promocijskih in trženjskih aktivnosti za nosilni turistični produkt industrije srečanj v letu 2027",
+   "customer": "Javna agencija Republike Slovenije za trženje in promocijo turizma",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2027-01-05",
+   "region": "SVN",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/820997-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-821251-2026",
+   "number": "821251-2026",
+   "title": "10035410-BPRA Zanzibar Business Registration System",
+   "customer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2026-12-29",
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/821251-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-822114-2026",
+   "number": "822114-2026",
+   "title": "Servicios de apoyo, dinamización y análisis de los perfiles de las Redes Sociales Institucionales de la UNED",
+   "customer": "Rectorado de la Universidad Nacional de Educación a Distancia",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2027-01-07",
+   "region": "ESP",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/822114-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-822130-2026",
+   "number": "822130-2026",
+   "title": "PUBLIC NOTICE OF TENDERS FOR THE SELECTION, BY MEANS OF AN OPEN COMPETITIVE PROCEDURE, OF AN \"IMPLEMENTING BODY\" – TARGET MARKETS: JAPAN AND THAILAND – PROGRAMME \"2026BioCatina – Enjoy European Organic Superfruits!\"",
+   "customer": "BIO CATINA COOPERATIVA AGRICOLA",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 1625356.0,
+   "currency": "EUR",
+   "published": "2026-11-26",
+   "deadline": "2026-12-21",
+   "region": "ROU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/822130-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-822286-2026",
+   "number": "822286-2026",
+   "title": "Rahmenvertrag über die strategische Konzeption, Planung, Organisation und Durchführung von externen und internen Veranstaltungsmaßnahmen im Eventbereich",
+   "customer": "Berlinovo Immobilien Gesellschaft mbH",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 1100000.0,
+   "currency": "EUR",
+   "published": "2026-11-26",
+   "deadline": null,
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/822286-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-822443-2026",
+   "number": "822443-2026",
+   "title": "Préparation, montage, exploitation et démontage de lot technique pour l'évènement « Voiles et Vignobles 2027 »",
+   "customer": "Bordeaux Métropole",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2027-01-04",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/822443-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-822850-2026",
+   "number": "822850-2026",
+   "title": "Παροχή ολοκληρωμένων υπηρεσιών επικοινωνίας, δημοσιότητας και προβολής του Προγράμματος “ΚΡΗΤΗ” 2021–2027",
+   "customer": "ΕΙΔΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΑΧΕΙΡΙΣΗΣ ΠΡΟΓΡΑΜΜΑΤΟΣ \"ΚΡΗΤΗ\"",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 720000.0,
+   "currency": "EUR",
+   "published": "2026-11-26",
+   "deadline": "2027-01-08",
+   "region": "GRC",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/822850-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-822919-2026",
+   "number": "822919-2026",
+   "title": "Policy Dialogue and Public Diplomacy Facility for the United States",
+   "customer": "European Commission, FPI - Service for Foreign Policy Instruments",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 5000000.0,
+   "currency": "EUR",
+   "published": "2026-11-26",
+   "deadline": null,
+   "region": "USA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/822919-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-823440-2026",
+   "number": "823440-2026",
+   "title": "Technische Begleitung, Betreuung und Durchführung von Veranstaltungen bzw. Konferenzen",
+   "customer": "Ministerium für Verkehr Baden-Württemberg",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2026-12-16",
+   "region": "DEU",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/823440-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-823793-2026",
+   "number": "823793-2026",
+   "title": "Kompleksowa usługa promocji i budowania wizerunku Województwa Lubuskiego w kanałach i przestrzeni linii lotniczych (Warszawa)",
+   "customer": "Urząd Marszałkowski Województwa Lubuskiego w Zielonej Górze",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2026-12-28",
+   "region": "POL",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/823793-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-823820-2026",
+   "number": "823820-2026",
+   "title": "Programmation et organisation d’une journée événementielle « Hem en Fête »",
+   "customer": "COMMUNE DE HEM",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2027-01-29",
+   "region": "FRA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/823820-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-823992-2026",
+   "number": "823992-2026",
+   "title": "Operas \"Sun & Sea” tehniskās producēšanas pakalpojumi",
+   "customer": "\"Nodibinājums Liepāja 2027\"",
+   "procedure": "cn-social",
+   "status": "Приём заявок",
+   "price": null,
+   "currency": null,
+   "published": "2026-11-26",
+   "deadline": "2026-12-11",
+   "region": "LVA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/823992-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "TED",
+   "id": "ted-824148-2026",
+   "number": "824148-2026",
+   "title": "PROCEDURA DI GARA APERTA, SUDDIVISA IN N. 2 LOTTI, AI SENSI DEGLI ARTICOLI 59 E 71 DEL D.LGS. 36/2023, DA REALIZZARSI MEDIANTE PIATTAFORMA TELEMATICA, PER LA CONCLUSIONE DI ACCORDI QUADRO AVENTI AD OGGETTO L’AFFIDAMENTO DEI SERVIZI DI EVENTI E DI COMUNICAZIONE DI INVITALIA LOTTO 1: AQ DEI SERVIZI DI EVENTI DI INVITALIA LOTTO 2: AQ DEI SERVIZI DI CREATIVITA' E CONTENUTI MULTIMEDIALI DI INVITALIA",
+   "customer": "INVITALIA",
+   "procedure": "cn-standard",
+   "status": "Приём заявок",
+   "price": 4500000.0,
+   "currency": "EUR",
+   "published": "2026-11-26",
+   "deadline": "2027-01-15",
+   "region": "ITA",
+   "url": "https://ted.europa.eu/ru/notice/-/detail/824148-2026",
+   "matched": [
+    "CPV событий"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-527185",
+   "number": "26110012527185",
+   "title": "Badiiy ko'rgazmalarni tashkil etish xizmati",
+   "customer": "Дирекция Художественных Выставок",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 79500000.0,
+   "currency": "UZS",
+   "published": "2026-11-26",
+   "deadline": "2026-12-03",
+   "region": "Яккасарой тумани",
+   "url": "https://etender.uzex.uz/lot/527185",
+   "matched": [
+    "ko.rgazma"
+   ]
+  },
+  {
+   "source": "etender.uzex.uz",
+   "id": "uz-527201",
+   "number": "26110012527201",
+   "title": "Bolalar maydonchasini qurish yoki ta’mirlash bilan bog‘liq tadbirlar obyekti uchun loyiha hujjatlarini ishlab chiqishda foydalaniladigan Geodeziya va topografiya izlanish ishlarini bajarish",
+   "customer": "Инжиниринговая компания СЕЗ СМ РК",
+   "procedure": "Тендер",
+   "status": "Приём заявок",
+   "price": 7000000.0,
+   "currency": "UZS",
+   "published": "2026-11-26",
+   "deadline": "2026-12-03",
+   "region": "Қорақалпоғистон Республикаси, Нукус шаҳри",
+   "url": "https://etender.uzex.uz/lot/527201",
+   "matched": [
+    "tadbir"
+   ]
+  },
   {
    "source": "Bidzaar",
    "id": "bdzr-401-349",
@@ -169,42 +493,6 @@
   },
   {
    "source": "TED",
-   "id": "ted-819989-2026",
-   "number": "819989-2026",
-   "title": "2026A0293 Conception, réalisation, aménagement, montage et démontage du stand du Département des Alpes-Maritimes à l’occasion du Salon International de l'Intelligence Artificielle de Cannes - WAICF 2027",
-   "customer": "CD des A-M - Secrétariat Général",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 300000.0,
-   "currency": "EUR",
-   "published": "2026-11-25",
-   "deadline": "2026-11-25",
-   "region": "FRA",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/819989-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
-   "id": "ted-820020-2026",
-   "number": "820020-2026",
-   "title": "Achiziționarea serviciilor necesare pentru elaborarea itemilor și testelor de alfabetizare funcțională, setarea standardelor de performanță, , în cadrul proiectului: „Mecanisme de intervenție pentru alfabetizare funcțională în învățământul preuniversitar - MIAF“, Cod SMIS: 335928, proiect finanțat prin programul Educație și Ocupare 2021-2027, Prioritatea 7",
-   "customer": "INSTITUTUL DE STIINTE ALE EDUCATIEI",
-   "procedure": "cn-standard",
-   "status": "Приём заявок",
-   "price": 2458600.0,
-   "currency": "RON",
-   "published": "2026-11-25",
-   "deadline": "2026-11-25",
-   "region": "ROU",
-   "url": "https://ted.europa.eu/ru/notice/-/detail/820020-2026",
-   "matched": [
-    "CPV событий"
-   ]
-  },
-  {
-   "source": "TED",
    "id": "ted-820129-2026",
    "number": "820129-2026",
    "title": "Selection of the Implementing Body for the Information and Promotion Programme Cultural heritage, Rooted in native grapes, Uniquely European - CRU_EU",
@@ -312,6 +600,42 @@
    ]
   },
   {
+   "source": "DevelopmentAid",
+   "id": "dvaid-1753649",
+   "number": "1753649",
+   "title": "provision of high quality event management 8 9 december 2026 in ashgabat turkmenistan including cate",
+   "customer": null,
+   "procedure": "Тендер донора",
+   "status": null,
+   "price": null,
+   "currency": null,
+   "published": "2026-11-25",
+   "deadline": null,
+   "region": "turkmen",
+   "url": "https://www.developmentaid.org/tenders/view/1753649/provision-of-high-quality-event-management-8-9-december-2026-in-ashgabat-turkmenistan-including-cate",
+   "matched": [
+    "\\bevent"
+   ]
+  },
+  {
+   "source": "DevelopmentAid",
+   "id": "dvaid-1753596",
+   "number": "1753596",
+   "title": "venue and catering services for nrc moldova event",
+   "customer": null,
+   "procedure": "Тендер донора",
+   "status": null,
+   "price": null,
+   "currency": null,
+   "published": "2026-11-25",
+   "deadline": null,
+   "region": "moldova",
+   "url": "https://www.developmentaid.org/tenders/view/1753596/venue-and-catering-services-for-nrc-moldova-event",
+   "matched": [
+    "\\bevent"
+   ]
+  },
+  {
    "source": "Bidzaar",
    "id": "bdzr-401-082",
    "number": "401-082",
@@ -322,7 +646,7 @@
    "price": null,
    "currency": null,
    "published": "2026-11-24",
-   "deadline": "2026-12-04",
+   "deadline": "2026-12-01",
    "region": null,
    "url": "https://bidzaar.com/app/process/light/01a20d3d-b036-7277-ac52-da16d85fb5e2",
    "matched": [
